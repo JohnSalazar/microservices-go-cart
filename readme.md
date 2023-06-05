@@ -46,6 +46,7 @@
 
 - Ports and Adapters (Hexagonal Architecture)
 - Clean Code
+- CQRS
 - Retry Pattern
 - Circuit Breaker
 - Repository
