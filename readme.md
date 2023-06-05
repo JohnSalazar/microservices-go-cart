@@ -65,7 +65,7 @@
 
 ### This service is part 5/8 of the e-commerce application
 
-- Authentication
+- [Authentication](https://github.com/JohnSalazar/microservices-go-authentication)
 - Email
 - Customer
 - Product
