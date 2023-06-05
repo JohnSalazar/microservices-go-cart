@@ -29,6 +29,7 @@
 - Mongo
 - Prometheus
 - Otel
+- Jaeger
 - Consul
 - Nats
 
