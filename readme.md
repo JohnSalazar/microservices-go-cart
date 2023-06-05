@@ -72,7 +72,7 @@
 - [Customer](https://github.com/JohnSalazar/microservices-go-customer)
 - Product
 - **Cart**
-- Order
+- [Order](https://github.com/JohnSalazar/microservices-go-order)
 - Payment
 - Web
 
