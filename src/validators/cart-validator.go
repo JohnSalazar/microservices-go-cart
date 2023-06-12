@@ -4,8 +4,8 @@ import (
 	"cart/src/dtos"
 	"cart/src/models"
 
-	"github.com/oceano-dev/microservices-go-common/helpers"
-	common_validator "github.com/oceano-dev/microservices-go-common/validators"
+	"github.com/JohnSalazar/microservices-go-common/helpers"
+	common_validator "github.com/JohnSalazar/microservices-go-common/validators"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

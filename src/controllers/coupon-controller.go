@@ -8,10 +8,10 @@ import (
 
 	natsMetrics "cart/src/nats/interfaces"
 
+	"github.com/JohnSalazar/microservices-go-common/helpers"
+	"github.com/JohnSalazar/microservices-go-common/httputil"
+	trace "github.com/JohnSalazar/microservices-go-common/trace/otel"
 	"github.com/gin-gonic/gin"
-	"github.com/oceano-dev/microservices-go-common/helpers"
-	"github.com/oceano-dev/microservices-go-common/httputil"
-	trace "github.com/oceano-dev/microservices-go-common/trace/otel"
 )
 
 type CouponController struct {

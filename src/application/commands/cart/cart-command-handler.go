@@ -12,7 +12,7 @@ import (
 	"cart/src/repositories/interfaces"
 	"cart/src/validators"
 
-	common_security "github.com/oceano-dev/microservices-go-common/security"
+	common_security "github.com/JohnSalazar/microservices-go-common/security"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

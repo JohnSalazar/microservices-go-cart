@@ -3,6 +3,7 @@ module cart
 go 1.20
 
 require (
+	github.com/JohnSalazar/microservices-go-common v0.0.0-20230612135818-acdb75f09cf2
 	github.com/gin-gonic/gin v1.7.7
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/consul/api v1.20.0
@@ -87,7 +88,6 @@ require (
 	github.com/gin-contrib/location v0.0.2
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/klauspost/compress v1.14.4 // indirect
-	github.com/oceano-dev/microservices-go-common v1.0.1-0.20230530133617-471e5cc99e77
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
 	github.com/xdg-go/scram v1.1.1 // indirect

@@ -3,7 +3,7 @@ package events
 import (
 	"context"
 
-	common_nats "github.com/oceano-dev/microservices-go-common/nats"
+	common_nats "github.com/JohnSalazar/microservices-go-common/nats"
 )
 
 type CouponEventHandler struct {
